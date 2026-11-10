@@ -1,6 +1,6 @@
 # XML Gateway Answer Hub: Walkthrough
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/examples/xml-gateway-answer-hub/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/examples/xml-gateway-answer-hub/
 
 **Contents**
 

@@ -1,6 +1,6 @@
 # Ocean-Atlas Reference Overview
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/reference-overview/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/reference-overview/
 
 **Contents**
 
@@ -256,7 +256,6 @@ Section parameters or metadata may be supported where defined by the applicable 
 Recognized Ocean DSL file extensions include:
 
 ```text
-.ace
 .ocean
 .ocn
 ```

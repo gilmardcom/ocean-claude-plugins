@@ -1,6 +1,6 @@
 # Ocean DSL
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/dsl/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/dsl/
 
 **Contents**
 
@@ -54,9 +54,8 @@ Authors must use the exact spelling and capitalization of declared names.
 
 Ocean DSL source files may use these extensions:
 
-- `.ocn` (canonical)
+- `.ocn`
 - `.ocean`
-- `.ace` (legacy)
 
 Every source file must begin with exactly one top-level section identifier:
 

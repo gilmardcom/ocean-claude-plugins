@@ -1,6 +1,6 @@
 # DSL Quick Reference
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/dsl/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/dsl/
 
 One card per DSL page: what it covers, its section titles, and a short syntax block copied from the page. Use it to orient yourself, then open the full file (named in each card) for rules, options and validation. Cards are excerpts, not complete grammars.
 

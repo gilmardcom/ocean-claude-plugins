@@ -1,6 +1,6 @@
 # Reference Index
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai
 
 Fallback map of every reference file. Prefer the routing table in `SKILL.md`.
 

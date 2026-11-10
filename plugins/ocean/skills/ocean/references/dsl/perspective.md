@@ -1,6 +1,6 @@
 # Perspective DSL Reference
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/dsl/perspective/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/dsl/perspective/
 
 Canonical reference ID for Ocean perspective metadata. Perspectives are defined by the generic metadata model in `dsl.metadata`; this document identifies the concept and points to its normative definition.
 

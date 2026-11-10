@@ -7,7 +7,7 @@ description: Canonical knowledge of the Ocean platform and the Ocean domain-spec
 
 Ocean is a system-design and generation platform. You describe a system (its data, behavior, interfaces and how its parts connect) in Ocean DSL, a domain-specific language that stays independent of any programming language, framework or database. Ocean validates the description and then generates a real implementation from it. The description is the source of truth, and the generated code is an output that can always be reproduced from the model.
 
-Knowledge version: Ocean-Atlas v0.1.0 (content 8776e975). Canonical site: https://atlas.ocean-lab.ai
+Knowledge version: Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical site: https://atlas.ocean-lab.ai
 
 ## Which reference to open
 

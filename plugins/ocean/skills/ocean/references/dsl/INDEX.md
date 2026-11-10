@@ -1,6 +1,6 @@
 # DSL Reference Index
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/dsl/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/dsl/
 
 One file per DSL section or directive. Open only the files for the constructs you are using. Start with `overview.md` for source-file rules.
 

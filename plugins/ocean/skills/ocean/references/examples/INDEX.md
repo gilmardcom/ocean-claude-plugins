@@ -1,6 +1,6 @@
 # Examples Index
 
-> Generated from Ocean-Atlas v0.1.0 (content 8776e975). Canonical source: https://atlas.ocean-lab.ai/examples/
+> Generated from Ocean-Atlas v0.1.0 (content a0c57f8d). Canonical source: https://atlas.ocean-lab.ai/examples/
 
 Complete, validated Ocean projects. Pick the closest one by capability or by the DSL sections it uses, then open its file: it has the overview and every DSL source file. A separate `-walkthrough.md` file holds the long explanation. Ordered easiest first.
 
