@@ -6,7 +6,7 @@ Claude Code plugin marketplace for the Ocean platform. It currently contains one
 
 ```text
 /plugin marketplace add gilmardcom/ocean-claude-plugins
-/plugin install ocean@ocean-lab
+/plugin install ateala@ocean-lab
 ```
 
 For claude.ai, Claude desktop and the API, download the zip from [Use Ocean with Claude](https://atlas.ocean-lab.ai/getting-started/use-with-claude/) or from this repository's Releases.
