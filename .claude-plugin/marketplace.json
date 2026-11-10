@@ -1,0 +1,19 @@
+{
+  "name": "ocean-lab",
+  "owner": {
+    "name": "Ocean-Lab",
+    "url": "https://ocean-lab.ai"
+  },
+  "metadata": {
+    "description": "Official Claude plugins for the Ocean platform."
+  },
+  "plugins": [
+    {
+      "name": "ocean",
+      "source": "./plugins/ocean",
+      "description": "Canonical Ocean platform and Ocean DSL knowledge from Ocean-Atlas.",
+      "version": "0.1.0",
+      "license": "LicenseRef-OceanLab-Proprietary"
+    }
+  ]
+}
